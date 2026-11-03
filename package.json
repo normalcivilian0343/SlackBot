@@ -1,7 +1,7 @@
 {
   "name": "slackbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a SlackBot I created for Stardance (a Hack Club YSWS event), using a guide that was provided on the Stardance website!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
