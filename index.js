@@ -30,7 +30,7 @@ app.command("/normalsidekick-help", async ({ ack, respond, command }) => {
 /normalsidekick-help - ʕ/ •ᴥ• /ʔ bear give you all commands when needed
 /normalsidekick-joke - @'-' snail will crack you up, 
 /normalsidekick-randofact - get a random fact, courtesy of kitty (^..^)=~
-/normalsidekick-mousy - <:3 )~~~~) mousy wants to say hi to you!`
+/normalsidekick-mousy - <:3~~~~ mousy wants to say hi to you!`
   });
 });
 
