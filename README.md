@@ -14,3 +14,4 @@ There is:
 You can run any one of these on the Hack Club Slack! (link provided on the actual demo link)
 
 # Please Enjoy!
+I spent a lot of time following the guide that Stardance provided, and now, I finally finished it, so I hope that people enjoy using it as much as I did creating it! 
